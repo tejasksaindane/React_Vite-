@@ -14,4 +14,4 @@ EXPOSE 5173
 CMD ["npm", "run", "dev"]
 
 # docker build -t react-app:dev 
-# docker run -p 5173:5173
+# docker run -p 5173:5173 react-app:dev
